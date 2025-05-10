@@ -2,6 +2,8 @@
 
 A decentralized exchange (DEX) bot for automated token swaps on Bebop.
 
+> **Source**: [Bebop Official Documentation](https://help.bebop.xyz/en/articles/6719535-is-bebop-open-source)
+
 ## Features
 
 - Automated token swaps on Bebop
@@ -40,6 +42,8 @@ INFURA_URL=your_infura_url
 ## Network Configuration
 
 ### Bebop Contract Addresses
+
+> **Note**: All contract addresses are sourced from [Bebop's official documentation](https://help.bebop.xyz/en/articles/6719535-is-bebop-open-source)
 
 1. **PMM RFQ Settlement Smart Contract**:
    - Address: `0xbbbbbBB520d69a9775E85b458C58c648259FAD5F`
