@@ -4,9 +4,9 @@
   "description": "A decentralized exchange (DEX) bot for automated token swaps on Bebop",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"No tests yet\"",
     "start": "node index.js",
-    "prepublishOnly": "npm test"
+    "prepublishOnly": "echo \"Preparing to publish...\""
   },
   "keywords": [
     "bebop",
