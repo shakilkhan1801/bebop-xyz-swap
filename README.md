@@ -2,7 +2,9 @@
 
 A decentralized exchange (DEX) bot for automated token swaps on Bebop.
 
-> **Source**: [Bebop Official Documentation](https://help.bebop.xyz/en/articles/6719535-is-bebop-open-source)
+> **Sources**:
+> - [Bebop Official Documentation](https://help.bebop.xyz/en/articles/6719535-is-bebop-open-source)
+> - [Bebop Router API Playground](https://api.bebop.xyz/router/ethereum/docs)
 
 ## Features
 
@@ -43,7 +45,7 @@ INFURA_URL=your_infura_url
 
 ### Bebop Contract Addresses
 
-> **Note**: All contract addresses are sourced from [Bebop's official documentation](https://help.bebop.xyz/en/articles/6719535-is-bebop-open-source)
+> **Note**: All contract addresses are sourced from [Bebop's official documentation](https://help.bebop.xyz/en/articles/6719535-is-bebop-open-source). For API integration details, refer to the [Bebop Router API Playground](https://api.bebop.xyz/router/ethereum/docs).
 
 1. **PMM RFQ Settlement Smart Contract**:
    - Address: `0xbbbbbBB520d69a9775E85b458C58c648259FAD5F`
